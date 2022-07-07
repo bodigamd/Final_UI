@@ -11,3 +11,7 @@ Log in Page :
 
 Post page :
 ![post](https://user-images.githubusercontent.com/103069580/177237133-f16f722f-492b-478a-93e2-6c18ce048f05.jpeg)
+
+Delete Post :
+![image](https://user-images.githubusercontent.com/103069580/177874220-d93fe337-e93b-4dff-afb9-fcda78aae4ef.png)
+
