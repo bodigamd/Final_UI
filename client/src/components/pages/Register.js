@@ -1,9 +1,11 @@
 import '../../App.css';
-import { useContext } from "react";
-import UserContext from "../../Context/userContext.js";
+
 import { fetchData } from "../../main.js";
 import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
+
+import { useContext } from "react";
+import UserContext from "../../Context/userContext.js";
 
 const Register = () => {
   const navigate = useNavigate();
